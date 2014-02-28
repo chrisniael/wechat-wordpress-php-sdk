@@ -32,8 +32,7 @@
   //$wechatObj->responseMsg();
   ```
 
-  5. `菜单模式` : 修改 `/src/wechat.php` 第 `2` 行，将 `shenyu` 替换成你设置的 `Token` 值;
-  
+  5. `菜单模式` : 修改 `/src/wechat.php` 第 `2` 行，将 `shenyu` 替换成你设置的 `Token` 值;<br />
   `普通模式` : 修改 `/src/wecha\_normal.php` 第 `2` 行，将 `shenyu` 替换成你想设置的 `Token` 值。
 
 
@@ -45,8 +44,7 @@
   $wechatObj->responseMsg();
   ```
 
-  6. `菜单模式` : 修改 `/src/wechat.php` 第 `6~9` 行，配置你的WordPress数据库相关信息；
-
+  6. `菜单模式` : 修改 `/src/wechat.php` 第 `6~9` 行，配置你的WordPress数据库相关信息；<br />
   `普通模式` : 修改 `/src/wechat.php` 第 `6~9` 行，配置你的WordPress数据库相关信息。
 
   7. `普通模式` : 修改 `/src/wechat_normal.php` 第6行，配置你的WordPress地址，并且将 `104` 行 `$menuText` 修改成你的WordPress对应的布局。
