@@ -8,6 +8,8 @@ define('MYSQL_USER', '****');	//数据库用户名
 define('MYSQL_PASSWORD', '****');	//数据库密码
 define('MYSQL_DB', '****');		//WordPress数据库名
 
+//博客的主页地址
+define("SITE", "http://www.xn--guwy6h.cn");		//替换成你的WordPress博客地址
 
 
 //数据库查询
