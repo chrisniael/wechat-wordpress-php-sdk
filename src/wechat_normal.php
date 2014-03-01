@@ -12,7 +12,6 @@ define('MYSQL_PASSWORD', '****');	//数据库密码
 define('MYSQL_DB', '****');		//WordPress数据库名
 
 
-
 //数据库查询
 class SQL
 {
