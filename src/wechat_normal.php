@@ -1,4 +1,11 @@
 <?php
+/**
+ * 微信公众平台对接WordPress PHP SDK
+ *
+ * @author     沈煜 <chrisniael@vip.qq.com>
+ * @license    MIT License
+ */
+
 //Token
 define("TOKEN", "shenyu");
 
