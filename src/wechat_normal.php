@@ -24,7 +24,7 @@ class SQL
 {
 	function __construct()
 	{
-		//$this->db = new mysqli(MYSQL_HOST, MYSQL_USER, MYSQL_PASSWORD, MYSQL_DB);
+		$this->db = new mysqli(MYSQL_HOST, MYSQL_USER, MYSQL_PASSWORD, MYSQL_DB);
 						                    
 	    if($this->db->connect_error)
 	    {
