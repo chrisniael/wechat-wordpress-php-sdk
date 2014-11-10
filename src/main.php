@@ -2,7 +2,7 @@
 /**
  * 微信公众平台对接WordPress PHP SDK
  *
- * @author     沈煜 <chrisniael@vip.qq.com>
+ * @author     沈煜 <shenyu@shenyu.me>
  * @license    MIT License
  */
  
